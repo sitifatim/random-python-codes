@@ -1,0 +1,2 @@
+# notice
+the codes from this sub-repository are all from [Kelas Terbuka](https://www.youtube.com/watch?v=iA8lLwmtKQM&list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY). I write same exact as their codes (with little change) for me to studying more about python. All rights belong to them. 
