@@ -23,6 +23,13 @@ data_kompleks = complex(3,6)
 print("data: ", data_kompleks)
 print("- bertipe: ", type(data_kompleks))
 
+#tipe data dari bahasa C
+
+from ctypes import c_double
+
+data_c_doubke = c_double((13.7))
+print("data: ", data_c_doubke)
+print("- bertipe: ", type(data_c_doubke))
 
 
 
