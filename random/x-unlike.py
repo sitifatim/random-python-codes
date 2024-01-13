@@ -13,6 +13,7 @@ pwd = 'password'
 
 #set the driver options
 options = webdriver.ChromeOptions()
+# options.add_argument("user-data-dir=C:\\environments\database") #use this if you want to automate login
 options.add_argument("--disable-blink-features=AutomationControlled")
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 driver = webdriver.Chrome(options=options)
